@@ -1,0 +1,14 @@
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Entornos y editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs de Apache / PHP
+*.log
+error_log
